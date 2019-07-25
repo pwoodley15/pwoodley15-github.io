@@ -578,10 +578,11 @@ ol {
 	line-height: 0;
 	color: #505259;
 	margin-top: 60px;
+	margin-bottom: 10px;
 }
 
 .single-review p {
-	margin-bottom: 40px;
+	margin-bottom: 10px;
 }
 
 .single-review h3 {
